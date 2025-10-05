@@ -17,7 +17,7 @@ Ce projet analyse la volatilité du Bitcoin (BTC-USD) de janvier 2018 à aujourd
 ---
 
 ### Technologies Utilisées
-- **Langage :** Python 3.x
+- **Langage :** Python 3.13
 - **Librairies Principales :** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Arch.
 
 ---
